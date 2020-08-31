@@ -14,7 +14,7 @@ https://doc.ubuntu-fr.org/lamp
 
 
 ### Importer le projet :
-Git clone : https://github.com/webcontrat/jobeet 
+Git clone : https://github.com/webcontrat/jobeet_remy
 
 
 ### Installer le projet :
